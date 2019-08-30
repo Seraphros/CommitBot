@@ -22,3 +22,7 @@ Docker
 -
 
 Additionally, you can run the bo inside a docker container by using the image using the Dockerfile provided. 
+
+    sudo docker build -t commitstripdiscord .
+    sudo docker run --restart always -itd commitstripdiscord
+ 
