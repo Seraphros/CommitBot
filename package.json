@@ -1,0 +1,14 @@
+{
+  "name": "commitbot",
+  "version": "1.0.0",
+  "description": "Bot to send new commit strips",
+  "main": "bot.js",
+  "author": "Ridgil",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "install": "^0.13.0",
+    "mysql": "^2.17.1",
+    "npm": "^6.11.2",
+    "winston": "^3.2.1"
+  }
+}
